@@ -1,0 +1,3 @@
+LIBRARY LIB
+EXPORTS
+SendEmail @ 1
